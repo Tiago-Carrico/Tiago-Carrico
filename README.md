@@ -8,7 +8,8 @@ I'm **Tiago**, a Cloud and DevOps Engineer from Portugal, who genuinely enjoys b
 - 🎓 I have a Bachelor's degree in Computer Science, and a Master's degree in Software Engineering, both from the University of Coimbra.
 
 
-### Cloud platforms
+### ☁️ Cloud platforms
+
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://devicons.io/devicons/icons/aws.svg" />
 <img align="left" alt="GCP" width="30px" style="padding-right:10px;" src="https://devicons.io/devicons/icons/google-cloud.svg" />
 <img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://devicons.io/devicons/icons/microsoft-azure.svg" />
@@ -16,7 +17,8 @@ I'm **Tiago**, a Cloud and DevOps Engineer from Portugal, who genuinely enjoys b
 
 ##
 
-### Languages
+### 💻 Languages
+
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
@@ -28,14 +30,16 @@ I'm **Tiago**, a Cloud and DevOps Engineer from Portugal, who genuinely enjoys b
 
 ##
 
-### Frameworks
+### 🧩 Frameworks
+
 <img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://devicons.io/devicons/icons/django-icon.svg" />
 <img align="left" alt="Spring Boot" width="30px" style="padding-right:10px;" src="https://devicons.io/devicons/icons/spring.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
 ##
 
-### Tools
+### 🛠️ Tools
+
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <img align="left" alt="VsCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
