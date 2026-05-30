@@ -15,7 +15,7 @@ I'm **Tiago**, a Cloud and DevOps Engineer from Portugal, who genuinely enjoys b
 <img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://devicons.io/devicons/icons/microsoft-azure.svg" />
 <img align="left" alt="OCI" width="30px" style="padding-right:10px;" src="https://devicons.io/devicons/icons/oracle.svg" />
 
-##
+<br clear="left"/>
 
 ### 💻 Languages
 
@@ -28,7 +28,7 @@ I'm **Tiago**, a Cloud and DevOps Engineer from Portugal, who genuinely enjoys b
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="PostgresSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 
-##
+<br clear="left"/>
 
 ### 🧩 Frameworks
 
@@ -36,7 +36,7 @@ I'm **Tiago**, a Cloud and DevOps Engineer from Portugal, who genuinely enjoys b
 <img align="left" alt="Spring Boot" width="30px" style="padding-right:10px;" src="https://devicons.io/devicons/icons/spring.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
-##
+<br clear="left"/>
 
 ### 🛠️ Tools
 
