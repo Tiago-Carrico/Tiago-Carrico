@@ -7,7 +7,7 @@ I'm **Tiago**, a Cloud and DevOps Engineer from Portugal, who genuinely enjoys b
 - 🍵 When I'm not staring at my screen, you can usually find me practicing my guitar playing, weightlifting, or building a Lego set.
 - 🎓 I have a Bachelor's degree in Computer Science, and a Master's degree in Software Engineering, both from the University of Coimbra.
 
-## 🎧 Listening to 2
+## 🎧 Listening to
 
 [![Now Playing](https://now-playing-badge.vercel.app/api/nowplaying)](https://www.last.fm/user/Tiagcarrico)
 
