@@ -10,8 +10,8 @@ I'm **Tiago**, a Cloud and DevOps Engineer from Portugal, who genuinely enjoys b
 ## 🎧 Listening to
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://now-playing-badge.vercel.app/api/nowplaying?theme=dark">
-  <img src="https://now-playing-badge.vercel.app/api/nowplaying?theme=light" alt="Now Playing">
+  <source media="(prefers-color-scheme: dark)" srcset="https://music-displayer-for-markdown.vercel.app/api/nowplaying?theme=dark">
+  <img src="https://music-displayer-for-markdown.vercel.app/api/nowplaying?theme=light" alt="Now Playing">
 </picture>
 
 ## 💻 Tech Stack
