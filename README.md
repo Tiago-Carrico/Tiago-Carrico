@@ -52,7 +52,3 @@ I'm **Tiago**, a Cloud and DevOps Engineer from Portugal, who genuinely enjoys b
 <img align="left" alt="Confluence" width="30px" style="padding-right:10px;" src="https://devicons.io/devicons/icons/confluence.svg" />
 <img align="left" alt="Terraform" width="30px" style="padding-right:10px;" src="https://devicons.io/devicons/icons/terraform-icon.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://devicons.io/devicons/icons/linux-tux.svg" />
-
-
-
-
