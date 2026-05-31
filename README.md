@@ -9,7 +9,10 @@ I'm **Tiago**, a Cloud and DevOps Engineer from Portugal, who genuinely enjoys b
 
 ## 🎧 Listening to
 
-[![Now Playing](https://now-playing-badge.vercel.app/api/nowplaying)](https://www.last.fm/user/Tiagcarrico)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://now-playing-badge.vercel.app/api/nowplaying?theme=dark">
+  <img src="https://now-playing-badge.vercel.app/api/nowplaying?theme=light" alt="Now Playing">
+</picture>
 
 ## 💻 Tech Stack
 
