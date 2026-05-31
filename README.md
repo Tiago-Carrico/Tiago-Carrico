@@ -2,11 +2,16 @@
 
 I'm **Tiago**, a Cloud and DevOps Engineer from Portugal, who genuinely enjoys building things and occasionally breaking them up.
 
-### 👨‍💻 About Me :
+## 👨‍💻 About Me :
 - 💻 I like my code clean, my systems observable, and my tea warm.
 - 🍵 When I'm not staring at my screen, you can usually find me practicing my guitar playing, weightlifting, or building a Lego set.
 - 🎓 I have a Bachelor's degree in Computer Science, and a Master's degree in Software Engineering, both from the University of Coimbra.
 
+## 🎧 Listening to
+
+[![Now Playing](https://now-playing-badge.vercel.app/api/nowplaying)](https://www.last.fm/user/Tiagcarrico)
+
+## 💻 Tech Stack
 
 ### ☁️ Cloud platforms
 
@@ -17,7 +22,7 @@ I'm **Tiago**, a Cloud and DevOps Engineer from Portugal, who genuinely enjoys b
 
 <br clear="left"/>
 
-### 💻 Languages
+### ⌨️ Languages
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
